@@ -7,19 +7,19 @@ There are two folders for the raw and processed data:
 1. **Raw Data:** Includes a sub-folder for each category of vehicle (e.g. Class I - ICEV, Class I - HEV, Class II, etc.). Under each category sub-folder, there are the raw data files related to a specific experiment. For example, we can get the raw OBD and PEMS data for *Chevrolet Malibu 2019 (October 2019)* experiment with the following path:
 
 ```
-- Raw Data
-	- Class I - ICEV
-		- Chevrolet Malibu 2019 (October 2019)
-			- OBD
-			- PEMS
+- Raw Dat
+  - Class I - ICEV
+    - Chevrolet Malibu 2019 (October 2019)
+      - OBD
+      - PEMS
 ```
     
 2. **Processed Data:** Includes a sub-folder for each category of vehicle (e.g. Class I - ICEV, Class I - HEV, Class II, etc.). Under each category sub-folder, there is the processed data file related to a specific experiment. For example, we can get the processed data for *Chevrolet Malibu 2019 (October 2019)* experiment with the following path:
 
 ```
 - Processed Data
-	- Class I - ICEV
-		- Chevrolet_Malibu_2019_(October_2019).csv
+  - Class I - ICEV
+    - Chevrolet_Malibu_2019_(October_2019).csv
 ```
 
 The document titled `Data Collection and Description.pdf` contains information about how data is collected, as well as descriptions of the original variables obtained using OBD and PEMS equipment.
