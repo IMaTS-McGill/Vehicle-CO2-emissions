@@ -1,0 +1,16 @@
+raw_name,processed_name
+DateTime,DateTime
+Latitude (deg),Latitude [deg]
+Longitude (deg),Longitude [deg]
+Altitude (m),Altitude [m]
+GPS Speed (km/h),GPS Speed [km.h-1]
+Vehicle speed (km/h),Vehicle Speed [km.h-1]
+Engine RPM (RPM),Engine Speed [rpm]
+Acceleration (m/s²),Acceleration [m.s-2]
+Fuel rate (l/hr),Fuel Rate [l.h-1]
+Intake air temperature (C),Intake Air Temperature [c]
+Mass air flow rate (g/s),Mass Air Flow Rate [g.s-1]
+Intake manifold absolute pressure (kPa),Intake Manifold Absolute Pressure [kpa]
+Barometric pressure (kPa),Barometric Pressure [kpa]
+Fuel/Air commanded equivalence ratio,Phi
+Ambient air temperature (C),Ambient Air Temperature [c]
