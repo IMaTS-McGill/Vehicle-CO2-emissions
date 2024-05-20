@@ -2,7 +2,7 @@
 
 For the details of the data and methodology, please refer to: [https://ssrn.com/abstract=4832223](https://ssrn.com/abstract=4832223)
 
-Alakus, Cansu and Miranda-Moreno, Luis and Labbe, Aurelie and Perez Villasenor, Alejandro and Sun, Lijun, Modeling Vehicle CO2 Emissions: Assessing Alternative Methods, Lag Effects, and Internal-External Factors (May 17, 2024).
+Alakus, C., Miranda-Moreno, L., Labbe, A., Perez Villasenor, A. & Sun, L. (2024), '*Modeling Vehicle CO2 Emissions: Assessing Alternative Methods, Lag Effects, and Internal-External Factors*'.
  
 ## 1. On-road experiments data
 
